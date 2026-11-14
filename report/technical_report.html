@@ -45,7 +45,7 @@
 
 <h1>Distributed Multi-Model Analytics for E-commerce Data</h1>
 <div class="meta">AUCA Big Data Analytics: Final Project (Technical Report) &nbsp;·&nbsp; <b>BIZIMUNGU Theoneste</b>, ID <b>101398</b> &nbsp;·&nbsp; November 2026<br>
-MongoDB 7.0 · HBase 2.1 · Apache Spark 4.3 (PySpark) · Python 3.13 &nbsp;·&nbsp; Code: <b>[GitHub repository URL]</b></div>
+MongoDB 7.0 · HBase 2.1 · Apache Spark 4.3 (PySpark) · Python 3.13 &nbsp;·&nbsp; Code: <b>github.com/bibabbly/auca-ecommerce-multimodel-analytics</b></div>
 
 <div class="abstract">
 <p><b>Summary.</b> We generated a synthetic e-commerce dataset (10,000 users, 5,000 products, 300,000 browsing sessions with 3.0 M page views, 75,000 orders over 90 days) and built a polyglot analytics system around it. <b>MongoDB</b> stores the entity-centric documents (catalog, customer profiles with an embedded purchase summary, orders with embedded line items). <b>HBase</b> stores the high-volume clickstream under time-ordered row keys and daily product counters. <b>Spark</b> cleans the raw data, computes recommendation indicators and cohorts, runs Spark SQL across both "stores", and joins live HBase and MongoDB data for a conversion-funnel and customer-lifetime-value (CLV) analysis.</p>
