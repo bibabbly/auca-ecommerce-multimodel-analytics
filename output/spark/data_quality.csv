@@ -1,0 +1,18 @@
+entity,check,value
+users,rows,10000
+products,rows,5000
+products,missing subcategory after join,0
+products,inactive,225
+sessions,raw rows,300000
+sessions,rows after cleaning,300000
+sessions,unparseable start_time,0
+sessions,duration != end-start,0
+sessions,reached checkout with EMPTY cart,45933
+page_views,rows (exploded),2996073
+transactions,raw rows,75000
+transactions,rows after cleaning,75000
+transactions,not linked to a session,37565
+transactions,total != subtotal - discount,0
+transaction_items,rows (exploded),162838
+transaction_items,unknown product_id,0
+transactions,unknown user_id,0

@@ -1,0 +1,892 @@
+[
+  {
+    "category_name": "Mitchell-Kim",
+    "units": 4708,
+    "category_id": "cat_021",
+    "month": "2026-08",
+    "orders": 2287,
+    "net_revenue": 1176331.45,
+    "est_profit": 265231.05,
+    "margin_pct": 22.5
+  },
+  {
+    "category_name": "James LLC",
+    "units": 4259,
+    "category_id": "cat_002",
+    "month": "2026-08",
+    "orders": 2071,
+    "net_revenue": 1176195.14,
+    "est_profit": 330749.57,
+    "margin_pct": 28.1
+  },
+  {
+    "category_name": "Patterson, Smith and Jones",
+    "units": 4641,
+    "category_id": "cat_024",
+    "month": "2026-08",
+    "orders": 2238,
+    "net_revenue": 1162798.88,
+    "est_profit": 317108.24,
+    "margin_pct": 27.3
+  },
+  {
+    "category_name": "Moore, Becker and Carlson",
+    "units": 4589,
+    "category_id": "cat_007",
+    "month": "2026-08",
+    "orders": 2229,
+    "net_revenue": 1151789.06,
+    "est_profit": 309354.68,
+    "margin_pct": 26.9
+  },
+  {
+    "category_name": "Carney-Santos",
+    "units": 4618,
+    "category_id": "cat_012",
+    "month": "2026-08",
+    "orders": 2242,
+    "net_revenue": 1119696.31,
+    "est_profit": 288629.74,
+    "margin_pct": 25.8
+  },
+  {
+    "category_name": "Cameron-Parsons",
+    "units": 4498,
+    "category_id": "cat_005",
+    "month": "2026-08",
+    "orders": 2187,
+    "net_revenue": 1104164.36,
+    "est_profit": 306396.45,
+    "margin_pct": 27.7
+  },
+  {
+    "category_name": "Rodriguez-Graham",
+    "units": 4517,
+    "category_id": "cat_008",
+    "month": "2026-08",
+    "orders": 2190,
+    "net_revenue": 1100543.62,
+    "est_profit": 399695.53,
+    "margin_pct": 36.3
+  },
+  {
+    "category_name": "Skinner-Romero",
+    "units": 4354,
+    "category_id": "cat_009",
+    "month": "2026-08",
+    "orders": 2123,
+    "net_revenue": 1097975.37,
+    "est_profit": 282197.24,
+    "margin_pct": 25.7
+  },
+  {
+    "category_name": "Kelly-Santiago",
+    "units": 4593,
+    "category_id": "cat_004",
+    "month": "2026-08",
+    "orders": 2234,
+    "net_revenue": 1060527.55,
+    "est_profit": 212168.79,
+    "margin_pct": 20.0
+  },
+  {
+    "category_name": "Burns-Rodriguez",
+    "units": 4474,
+    "category_id": "cat_010",
+    "month": "2026-08",
+    "orders": 2164,
+    "net_revenue": 1049482.35,
+    "est_profit": 190829.03,
+    "margin_pct": 18.2
+  },
+  {
+    "category_name": "Anderson, Walls and Duncan",
+    "units": 4378,
+    "category_id": "cat_014",
+    "month": "2026-08",
+    "orders": 2122,
+    "net_revenue": 1032401.14,
+    "est_profit": 266095.47,
+    "margin_pct": 25.8
+  },
+  {
+    "category_name": "Hancock Inc",
+    "units": 4410,
+    "category_id": "cat_017",
+    "month": "2026-08",
+    "orders": 2144,
+    "net_revenue": 1028165.28,
+    "est_profit": 290069.8,
+    "margin_pct": 28.2
+  },
+  {
+    "category_name": "Baldwin Ltd",
+    "units": 4211,
+    "category_id": "cat_001",
+    "month": "2026-08",
+    "orders": 2053,
+    "net_revenue": 1023738.64,
+    "est_profit": 216924.89,
+    "margin_pct": 21.2
+  },
+  {
+    "category_name": "Preston Ltd",
+    "units": 4037,
+    "category_id": "cat_022",
+    "month": "2026-08",
+    "orders": 1950,
+    "net_revenue": 1021843.33,
+    "est_profit": 316246.05,
+    "margin_pct": 30.9
+  },
+  {
+    "category_name": "King-Odonnell",
+    "units": 4133,
+    "category_id": "cat_023",
+    "month": "2026-08",
+    "orders": 2011,
+    "net_revenue": 1011426.52,
+    "est_profit": 280479.69,
+    "margin_pct": 27.7
+  },
+  {
+    "category_name": "Brewer, Bryant and Hickman",
+    "units": 4209,
+    "category_id": "cat_020",
+    "month": "2026-08",
+    "orders": 2043,
+    "net_revenue": 1011113.57,
+    "est_profit": 257426.2,
+    "margin_pct": 25.5
+  },
+  {
+    "category_name": "Owens-Daniel",
+    "units": 4099,
+    "category_id": "cat_015",
+    "month": "2026-08",
+    "orders": 1977,
+    "net_revenue": 995819.65,
+    "est_profit": 260097.19,
+    "margin_pct": 26.1
+  },
+  {
+    "category_name": "Rodriguez, Figueroa and Sanchez",
+    "units": 3997,
+    "category_id": "cat_000",
+    "month": "2026-08",
+    "orders": 1953,
+    "net_revenue": 976226.15,
+    "est_profit": 174441.61,
+    "margin_pct": 17.9
+  },
+  {
+    "category_name": "Smith Ltd",
+    "units": 4356,
+    "category_id": "cat_013",
+    "month": "2026-08",
+    "orders": 2113,
+    "net_revenue": 970188.83,
+    "est_profit": 236119.64,
+    "margin_pct": 24.3
+  },
+  {
+    "category_name": "Spence PLC",
+    "units": 3845,
+    "category_id": "cat_011",
+    "month": "2026-08",
+    "orders": 1896,
+    "net_revenue": 950835.09,
+    "est_profit": 212256.08,
+    "margin_pct": 22.3
+  },
+  {
+    "category_name": "Bush Inc",
+    "units": 3761,
+    "category_id": "cat_003",
+    "month": "2026-08",
+    "orders": 1848,
+    "net_revenue": 894753.83,
+    "est_profit": 239902.95,
+    "margin_pct": 26.8
+  },
+  {
+    "category_name": "Wright-Leblanc",
+    "units": 3559,
+    "category_id": "cat_016",
+    "month": "2026-08",
+    "orders": 1725,
+    "net_revenue": 879399.63,
+    "est_profit": 223617.11,
+    "margin_pct": 25.4
+  },
+  {
+    "category_name": "Phillips Inc",
+    "units": 3688,
+    "category_id": "cat_018",
+    "month": "2026-08",
+    "orders": 1796,
+    "net_revenue": 860835.32,
+    "est_profit": 209843.56,
+    "margin_pct": 24.4
+  },
+  {
+    "category_name": "Ellis, Baker and Wright",
+    "units": 3732,
+    "category_id": "cat_006",
+    "month": "2026-08",
+    "orders": 1815,
+    "net_revenue": 837886.68,
+    "est_profit": 178209.1,
+    "margin_pct": 21.3
+  },
+  {
+    "category_name": "Powell PLC",
+    "units": 3443,
+    "category_id": "cat_019",
+    "month": "2026-08",
+    "orders": 1688,
+    "net_revenue": 832197.87,
+    "est_profit": 209226.25,
+    "margin_pct": 25.1
+  },
+  {
+    "category_name": "Mitchell-Kim",
+    "units": 5097,
+    "category_id": "cat_021",
+    "month": "2026-09",
+    "orders": 2453,
+    "net_revenue": 1262434.62,
+    "est_profit": 281728.2,
+    "margin_pct": 22.3
+  },
+  {
+    "category_name": "Burns-Rodriguez",
+    "units": 5081,
+    "category_id": "cat_010",
+    "month": "2026-09",
+    "orders": 2410,
+    "net_revenue": 1218124.31,
+    "est_profit": 220715.15,
+    "margin_pct": 18.1
+  },
+  {
+    "category_name": "Cameron-Parsons",
+    "units": 4844,
+    "category_id": "cat_005",
+    "month": "2026-09",
+    "orders": 2317,
+    "net_revenue": 1217050.76,
+    "est_profit": 334902.01,
+    "margin_pct": 27.5
+  },
+  {
+    "category_name": "Patterson, Smith and Jones",
+    "units": 4753,
+    "category_id": "cat_024",
+    "month": "2026-09",
+    "orders": 2270,
+    "net_revenue": 1198376.04,
+    "est_profit": 331501.56,
+    "margin_pct": 27.7
+  },
+  {
+    "category_name": "James LLC",
+    "units": 4425,
+    "category_id": "cat_002",
+    "month": "2026-09",
+    "orders": 2115,
+    "net_revenue": 1197495.23,
+    "est_profit": 336490.71,
+    "margin_pct": 28.1
+  },
+  {
+    "category_name": "Rodriguez-Graham",
+    "units": 4640,
+    "category_id": "cat_008",
+    "month": "2026-09",
+    "orders": 2278,
+    "net_revenue": 1169438.92,
+    "est_profit": 423982.8,
+    "margin_pct": 36.3
+  },
+  {
+    "category_name": "Moore, Becker and Carlson",
+    "units": 4787,
+    "category_id": "cat_007",
+    "month": "2026-09",
+    "orders": 2360,
+    "net_revenue": 1162284.02,
+    "est_profit": 314056.14,
+    "margin_pct": 27.0
+  },
+  {
+    "category_name": "Skinner-Romero",
+    "units": 4501,
+    "category_id": "cat_009",
+    "month": "2026-09",
+    "orders": 2146,
+    "net_revenue": 1155463.44,
+    "est_profit": 299163.99,
+    "margin_pct": 25.9
+  },
+  {
+    "category_name": "Rodriguez, Figueroa and Sanchez",
+    "units": 4370,
+    "category_id": "cat_000",
+    "month": "2026-09",
+    "orders": 2121,
+    "net_revenue": 1108591.15,
+    "est_profit": 200466.39,
+    "margin_pct": 18.1
+  },
+  {
+    "category_name": "Anderson, Walls and Duncan",
+    "units": 4668,
+    "category_id": "cat_014",
+    "month": "2026-09",
+    "orders": 2263,
+    "net_revenue": 1096342.22,
+    "est_profit": 282519.95,
+    "margin_pct": 25.8
+  },
+  {
+    "category_name": "Hancock Inc",
+    "units": 4693,
+    "category_id": "cat_017",
+    "month": "2026-09",
+    "orders": 2271,
+    "net_revenue": 1080415.99,
+    "est_profit": 309324.04,
+    "margin_pct": 28.6
+  },
+  {
+    "category_name": "Baldwin Ltd",
+    "units": 4402,
+    "category_id": "cat_001",
+    "month": "2026-09",
+    "orders": 2098,
+    "net_revenue": 1078084.9,
+    "est_profit": 226866.33,
+    "margin_pct": 21.0
+  },
+  {
+    "category_name": "Carney-Santos",
+    "units": 4531,
+    "category_id": "cat_012",
+    "month": "2026-09",
+    "orders": 2201,
+    "net_revenue": 1073446.69,
+    "est_profit": 273575.37,
+    "margin_pct": 25.5
+  },
+  {
+    "category_name": "Owens-Daniel",
+    "units": 4226,
+    "category_id": "cat_015",
+    "month": "2026-09",
+    "orders": 2059,
+    "net_revenue": 1054876.96,
+    "est_profit": 273909.04,
+    "margin_pct": 26.0
+  },
+  {
+    "category_name": "Kelly-Santiago",
+    "units": 4624,
+    "category_id": "cat_004",
+    "month": "2026-09",
+    "orders": 2270,
+    "net_revenue": 1053554.27,
+    "est_profit": 212103.43,
+    "margin_pct": 20.1
+  },
+  {
+    "category_name": "Preston Ltd",
+    "units": 4115,
+    "category_id": "cat_022",
+    "month": "2026-09",
+    "orders": 2004,
+    "net_revenue": 1051749.45,
+    "est_profit": 331335.73,
+    "margin_pct": 31.5
+  },
+  {
+    "category_name": "King-Odonnell",
+    "units": 4174,
+    "category_id": "cat_023",
+    "month": "2026-09",
+    "orders": 2050,
+    "net_revenue": 1040948.82,
+    "est_profit": 284468.07,
+    "margin_pct": 27.3
+  },
+  {
+    "category_name": "Brewer, Bryant and Hickman",
+    "units": 4157,
+    "category_id": "cat_020",
+    "month": "2026-09",
+    "orders": 2019,
+    "net_revenue": 988203.73,
+    "est_profit": 248743.83,
+    "margin_pct": 25.2
+  },
+  {
+    "category_name": "Bush Inc",
+    "units": 4088,
+    "category_id": "cat_003",
+    "month": "2026-09",
+    "orders": 1981,
+    "net_revenue": 956086.26,
+    "est_profit": 259353.68,
+    "margin_pct": 27.1
+  },
+  {
+    "category_name": "Ellis, Baker and Wright",
+    "units": 4146,
+    "category_id": "cat_006",
+    "month": "2026-09",
+    "orders": 1993,
+    "net_revenue": 948522.05,
+    "est_profit": 201912.93,
+    "margin_pct": 21.3
+  },
+  {
+    "category_name": "Spence PLC",
+    "units": 3948,
+    "category_id": "cat_011",
+    "month": "2026-09",
+    "orders": 1953,
+    "net_revenue": 944205.26,
+    "est_profit": 210733.78,
+    "margin_pct": 22.3
+  },
+  {
+    "category_name": "Smith Ltd",
+    "units": 4215,
+    "category_id": "cat_013",
+    "month": "2026-09",
+    "orders": 2063,
+    "net_revenue": 916742.51,
+    "est_profit": 225633.75,
+    "margin_pct": 24.6
+  },
+  {
+    "category_name": "Phillips Inc",
+    "units": 3747,
+    "category_id": "cat_018",
+    "month": "2026-09",
+    "orders": 1821,
+    "net_revenue": 877859.76,
+    "est_profit": 210909.68,
+    "margin_pct": 24.0
+  },
+  {
+    "category_name": "Powell PLC",
+    "units": 3554,
+    "category_id": "cat_019",
+    "month": "2026-09",
+    "orders": 1710,
+    "net_revenue": 865768.38,
+    "est_profit": 217766.47,
+    "margin_pct": 25.2
+  },
+  {
+    "category_name": "Wright-Leblanc",
+    "units": 3579,
+    "category_id": "cat_016",
+    "month": "2026-09",
+    "orders": 1768,
+    "net_revenue": 857725.34,
+    "est_profit": 222860.81,
+    "margin_pct": 26.0
+  },
+  {
+    "category_name": "Mitchell-Kim",
+    "units": 5098,
+    "category_id": "cat_021",
+    "month": "2026-10",
+    "orders": 2506,
+    "net_revenue": 1261063.51,
+    "est_profit": 278564.46,
+    "margin_pct": 22.1
+  },
+  {
+    "category_name": "Cameron-Parsons",
+    "units": 4917,
+    "category_id": "cat_005",
+    "month": "2026-10",
+    "orders": 2358,
+    "net_revenue": 1221424.26,
+    "est_profit": 337080.16,
+    "margin_pct": 27.6
+  },
+  {
+    "category_name": "Patterson, Smith and Jones",
+    "units": 4755,
+    "category_id": "cat_024",
+    "month": "2026-10",
+    "orders": 2288,
+    "net_revenue": 1205953.07,
+    "est_profit": 333206.56,
+    "margin_pct": 27.6
+  },
+  {
+    "category_name": "Moore, Becker and Carlson",
+    "units": 4693,
+    "category_id": "cat_007",
+    "month": "2026-10",
+    "orders": 2289,
+    "net_revenue": 1182437.71,
+    "est_profit": 319068.33,
+    "margin_pct": 27.0
+  },
+  {
+    "category_name": "James LLC",
+    "units": 4225,
+    "category_id": "cat_002",
+    "month": "2026-10",
+    "orders": 2045,
+    "net_revenue": 1171337.8,
+    "est_profit": 330516.22,
+    "margin_pct": 28.2
+  },
+  {
+    "category_name": "Rodriguez-Graham",
+    "units": 4741,
+    "category_id": "cat_008",
+    "month": "2026-10",
+    "orders": 2283,
+    "net_revenue": 1166239.11,
+    "est_profit": 425184.28,
+    "margin_pct": 36.5
+  },
+  {
+    "category_name": "Burns-Rodriguez",
+    "units": 4921,
+    "category_id": "cat_010",
+    "month": "2026-10",
+    "orders": 2433,
+    "net_revenue": 1158465.49,
+    "est_profit": 210679.19,
+    "margin_pct": 18.2
+  },
+  {
+    "category_name": "Owens-Daniel",
+    "units": 4611,
+    "category_id": "cat_015",
+    "month": "2026-10",
+    "orders": 2203,
+    "net_revenue": 1136179.76,
+    "est_profit": 295855.98,
+    "margin_pct": 26.0
+  },
+  {
+    "category_name": "Carney-Santos",
+    "units": 4753,
+    "category_id": "cat_012",
+    "month": "2026-10",
+    "orders": 2302,
+    "net_revenue": 1132643.49,
+    "est_profit": 285804.91,
+    "margin_pct": 25.2
+  },
+  {
+    "category_name": "Skinner-Romero",
+    "units": 4566,
+    "category_id": "cat_009",
+    "month": "2026-10",
+    "orders": 2218,
+    "net_revenue": 1126397.74,
+    "est_profit": 293815.4,
+    "margin_pct": 26.1
+  },
+  {
+    "category_name": "Rodriguez, Figueroa and Sanchez",
+    "units": 4433,
+    "category_id": "cat_000",
+    "month": "2026-10",
+    "orders": 2136,
+    "net_revenue": 1117502.71,
+    "est_profit": 203107.5,
+    "margin_pct": 18.2
+  },
+  {
+    "category_name": "Baldwin Ltd",
+    "units": 4667,
+    "category_id": "cat_001",
+    "month": "2026-10",
+    "orders": 2210,
+    "net_revenue": 1116672.96,
+    "est_profit": 236351.31,
+    "margin_pct": 21.2
+  },
+  {
+    "category_name": "Anderson, Walls and Duncan",
+    "units": 4528,
+    "category_id": "cat_014",
+    "month": "2026-10",
+    "orders": 2177,
+    "net_revenue": 1085918.51,
+    "est_profit": 275512.58,
+    "margin_pct": 25.4
+  },
+  {
+    "category_name": "Kelly-Santiago",
+    "units": 4637,
+    "category_id": "cat_004",
+    "month": "2026-10",
+    "orders": 2278,
+    "net_revenue": 1084916.66,
+    "est_profit": 220551.38,
+    "margin_pct": 20.3
+  },
+  {
+    "category_name": "Hancock Inc",
+    "units": 4577,
+    "category_id": "cat_017",
+    "month": "2026-10",
+    "orders": 2197,
+    "net_revenue": 1079916.7,
+    "est_profit": 305882.03,
+    "margin_pct": 28.3
+  },
+  {
+    "category_name": "Brewer, Bryant and Hickman",
+    "units": 4351,
+    "category_id": "cat_020",
+    "month": "2026-10",
+    "orders": 2118,
+    "net_revenue": 1050478.94,
+    "est_profit": 268103.98,
+    "margin_pct": 25.5
+  },
+  {
+    "category_name": "Preston Ltd",
+    "units": 4167,
+    "category_id": "cat_022",
+    "month": "2026-10",
+    "orders": 2035,
+    "net_revenue": 1047867.08,
+    "est_profit": 328691.49,
+    "margin_pct": 31.4
+  },
+  {
+    "category_name": "King-Odonnell",
+    "units": 4342,
+    "category_id": "cat_023",
+    "month": "2026-10",
+    "orders": 2106,
+    "net_revenue": 1042509.75,
+    "est_profit": 277122.88,
+    "margin_pct": 26.6
+  },
+  {
+    "category_name": "Spence PLC",
+    "units": 4133,
+    "category_id": "cat_011",
+    "month": "2026-10",
+    "orders": 1990,
+    "net_revenue": 1017975.23,
+    "est_profit": 228130.3,
+    "margin_pct": 22.4
+  },
+  {
+    "category_name": "Bush Inc",
+    "units": 4169,
+    "category_id": "cat_003",
+    "month": "2026-10",
+    "orders": 2038,
+    "net_revenue": 977439.7,
+    "est_profit": 263421.41,
+    "margin_pct": 27.0
+  },
+  {
+    "category_name": "Ellis, Baker and Wright",
+    "units": 4208,
+    "category_id": "cat_006",
+    "month": "2026-10",
+    "orders": 2038,
+    "net_revenue": 970891.67,
+    "est_profit": 203895.66,
+    "margin_pct": 21.0
+  },
+  {
+    "category_name": "Phillips Inc",
+    "units": 4067,
+    "category_id": "cat_018",
+    "month": "2026-10",
+    "orders": 1955,
+    "net_revenue": 930671.63,
+    "est_profit": 226901.51,
+    "margin_pct": 24.4
+  },
+  {
+    "category_name": "Powell PLC",
+    "units": 3719,
+    "category_id": "cat_019",
+    "month": "2026-10",
+    "orders": 1780,
+    "net_revenue": 927398.01,
+    "est_profit": 233430.91,
+    "margin_pct": 25.2
+  },
+  {
+    "category_name": "Smith Ltd",
+    "units": 4148,
+    "category_id": "cat_013",
+    "month": "2026-10",
+    "orders": 1986,
+    "net_revenue": 912965.98,
+    "est_profit": 227075.02,
+    "margin_pct": 24.9
+  },
+  {
+    "category_name": "Wright-Leblanc",
+    "units": 3629,
+    "category_id": "cat_016",
+    "month": "2026-10",
+    "orders": 1770,
+    "net_revenue": 901172.34,
+    "est_profit": 229088.54,
+    "margin_pct": 25.4
+  },
+  {
+    "category_name": "Burns-Rodriguez",
+    "units": 10,
+    "category_id": "cat_010",
+    "month": "2026-11",
+    "orders": 4,
+    "net_revenue": 3068.45,
+    "est_profit": 545.64,
+    "margin_pct": 17.8
+  },
+  {
+    "category_name": "Preston Ltd",
+    "units": 5,
+    "category_id": "cat_022",
+    "month": "2026-11",
+    "orders": 2,
+    "net_revenue": 1656.97,
+    "est_profit": 362.07,
+    "margin_pct": 21.9
+  },
+  {
+    "category_name": "James LLC",
+    "units": 3,
+    "category_id": "cat_002",
+    "month": "2026-11",
+    "orders": 1,
+    "net_revenue": 1258.65,
+    "est_profit": 390.18,
+    "margin_pct": 31.0
+  },
+  {
+    "category_name": "Carney-Santos",
+    "units": 4,
+    "category_id": "cat_012",
+    "month": "2026-11",
+    "orders": 2,
+    "net_revenue": 1009.52,
+    "est_profit": 319.05,
+    "margin_pct": 31.6
+  },
+  {
+    "category_name": "Patterson, Smith and Jones",
+    "units": 2,
+    "category_id": "cat_024",
+    "month": "2026-11",
+    "orders": 1,
+    "net_revenue": 961.88,
+    "est_profit": 317.42,
+    "margin_pct": 33.0
+  },
+  {
+    "category_name": "Anderson, Walls and Duncan",
+    "units": 3,
+    "category_id": "cat_014",
+    "month": "2026-11",
+    "orders": 2,
+    "net_revenue": 768.13,
+    "est_profit": 92.18,
+    "margin_pct": 12.0
+  },
+  {
+    "category_name": "Spence PLC",
+    "units": 4,
+    "category_id": "cat_011",
+    "month": "2026-11",
+    "orders": 2,
+    "net_revenue": 653.62,
+    "est_profit": 121.83,
+    "margin_pct": 18.6
+  },
+  {
+    "category_name": "Kelly-Santiago",
+    "units": 3,
+    "category_id": "cat_004",
+    "month": "2026-11",
+    "orders": 2,
+    "net_revenue": 532.77,
+    "est_profit": 90.86,
+    "margin_pct": 17.1
+  },
+  {
+    "category_name": "Rodriguez-Graham",
+    "units": 3,
+    "category_id": "cat_008",
+    "month": "2026-11",
+    "orders": 2,
+    "net_revenue": 446.69,
+    "est_profit": 166.0,
+    "margin_pct": 37.2
+  },
+  {
+    "category_name": "Ellis, Baker and Wright",
+    "units": 3,
+    "category_id": "cat_006",
+    "month": "2026-11",
+    "orders": 1,
+    "net_revenue": 421.14,
+    "est_profit": 80.02,
+    "margin_pct": 19.0
+  },
+  {
+    "category_name": "Powell PLC",
+    "units": 2,
+    "category_id": "cat_019",
+    "month": "2026-11",
+    "orders": 1,
+    "net_revenue": 386.38,
+    "est_profit": 154.55,
+    "margin_pct": 40.0
+  },
+  {
+    "category_name": "Mitchell-Kim",
+    "units": 3,
+    "category_id": "cat_021",
+    "month": "2026-11",
+    "orders": 1,
+    "net_revenue": 347.37,
+    "est_profit": 52.11,
+    "margin_pct": 15.0
+  },
+  {
+    "category_name": "Smith Ltd",
+    "units": 2,
+    "category_id": "cat_013",
+    "month": "2026-11",
+    "orders": 1,
+    "net_revenue": 132.52,
+    "est_profit": 46.38,
+    "margin_pct": 35.0
+  },
+  {
+    "category_name": "Rodriguez, Figueroa and Sanchez",
+    "units": 1,
+    "category_id": "cat_000",
+    "month": "2026-11",
+    "orders": 1,
+    "net_revenue": 70.15,
+    "est_profit": 22.45,
+    "margin_pct": 32.0
+  }
+]

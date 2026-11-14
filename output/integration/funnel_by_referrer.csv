@@ -1,0 +1,6 @@
+referrer,s1_session,s2_viewed_product,s3_added_to_cart,s4_reached_checkout,s5_purchased,view_rate,cart_rate,checkout_rate,purchase_rate,overall_conversion
+affiliate,60209,59493,38212,17172,7580,98.8,64.2,44.9,44.1,12.59
+email,60003,59261,38326,16980,7527,98.8,64.7,44.3,44.3,12.54
+search_engine,59962,59223,37908,16910,7503,98.8,64.0,44.6,44.4,12.51
+social,59916,59183,37967,17064,7480,98.8,64.2,44.9,43.8,12.48
+direct,59910,59220,38104,16946,7345,98.8,64.3,44.5,43.3,12.26

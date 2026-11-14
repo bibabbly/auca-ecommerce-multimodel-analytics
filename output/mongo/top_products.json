@@ -1,0 +1,152 @@
+[
+  {
+    "units_sold": 119,
+    "orders": 55,
+    "product_id": "prod_00628",
+    "name": "Multi-Channeled Reciprocal Internet Solution",
+    "category": "Wright-Leblanc",
+    "revenue": 63308.0,
+    "current_stock": 347,
+    "base_price": 532.0
+  },
+  {
+    "units_sold": 106,
+    "orders": 50,
+    "product_id": "prod_03039",
+    "name": "Multi-Layered Multimedia Superstructure",
+    "category": "Brewer, Bryant and Hickman",
+    "revenue": 59600.62,
+    "current_stock": 351,
+    "base_price": 562.27
+  },
+  {
+    "units_sold": 102,
+    "orders": 50,
+    "product_id": "prod_01638",
+    "name": "Decentralized Executive Budgetary Management",
+    "category": "Preston Ltd",
+    "revenue": 55870.5,
+    "current_stock": 339,
+    "base_price": 547.75
+  },
+  {
+    "units_sold": 115,
+    "orders": 53,
+    "product_id": "prod_02667",
+    "name": "Open-Source Needs-Based Orchestration",
+    "category": "Hancock Inc",
+    "revenue": 54829.7,
+    "current_stock": 808,
+    "base_price": 476.78
+  },
+  {
+    "units_sold": 100,
+    "orders": 49,
+    "product_id": "prod_00206",
+    "name": "Exclusive Interactive Budgetary Management",
+    "category": "Phillips Inc",
+    "revenue": 54462.0,
+    "current_stock": 625,
+    "base_price": 544.62
+  },
+  {
+    "units_sold": 98,
+    "orders": 47,
+    "product_id": "prod_00142",
+    "name": "Persistent Non-Volatile Pricing Structure",
+    "category": "Cameron-Parsons",
+    "revenue": 53211.06,
+    "current_stock": 214,
+    "base_price": 542.97
+  },
+  {
+    "units_sold": 110,
+    "orders": 47,
+    "product_id": "prod_01055",
+    "name": "Persistent Tertiary Database",
+    "category": "Rodriguez, Figueroa and Sanchez",
+    "revenue": 50359.1,
+    "current_stock": 614,
+    "base_price": 457.81
+  },
+  {
+    "units_sold": 93,
+    "orders": 47,
+    "product_id": "prod_02353",
+    "name": "Extended Demand-Driven Moratorium",
+    "category": "Burns-Rodriguez",
+    "revenue": 50206.98,
+    "current_stock": 113,
+    "base_price": 539.86
+  },
+  {
+    "units_sold": 104,
+    "orders": 48,
+    "product_id": "prod_03929",
+    "name": "Persevering Even-Keeled Customer Loyalty",
+    "category": "Baldwin Ltd",
+    "revenue": 49464.48,
+    "current_stock": 353,
+    "base_price": 475.62
+  },
+  {
+    "units_sold": 89,
+    "orders": 46,
+    "product_id": "prod_00801",
+    "name": "Open-Source Solution-Oriented Leverage",
+    "category": "Skinner-Romero",
+    "revenue": 49280.19,
+    "current_stock": 559,
+    "base_price": 553.71
+  },
+  {
+    "units_sold": 99,
+    "orders": 42,
+    "product_id": "prod_01632",
+    "name": "Self-Enabling 24/7 Framework",
+    "category": "Cameron-Parsons",
+    "revenue": 49095.09,
+    "current_stock": 211,
+    "base_price": 495.91
+  },
+  {
+    "units_sold": 89,
+    "orders": 43,
+    "product_id": "prod_01172",
+    "name": "Multi-Tiered Local Archive",
+    "category": "Preston Ltd",
+    "revenue": 47730.7,
+    "current_stock": 531,
+    "base_price": 536.3
+  },
+  {
+    "units_sold": 95,
+    "orders": 41,
+    "product_id": "prod_03130",
+    "name": "Proactive Even-Keeled Task-Force",
+    "category": "Phillips Inc",
+    "revenue": 47289.1,
+    "current_stock": 66,
+    "base_price": 497.78
+  },
+  {
+    "units_sold": 89,
+    "orders": 45,
+    "product_id": "prod_01426",
+    "name": "Upgradable Intangible Concept",
+    "category": "Preston Ltd",
+    "revenue": 47186.91,
+    "current_stock": 735,
+    "base_price": 530.19
+  },
+  {
+    "units_sold": 94,
+    "orders": 49,
+    "product_id": "prod_00884",
+    "name": "Grass-Roots Content-Based Success",
+    "category": "Mitchell-Kim",
+    "revenue": 47015.98,
+    "current_stock": 11,
+    "base_price": 500.17
+  }
+]

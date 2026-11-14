@@ -1,0 +1,118 @@
+{
+  "by_frequency": [
+    {
+      "_id": 0,
+      "users": 6,
+      "avg_spent": 0.0
+    },
+    {
+      "_id": 1,
+      "users": 213,
+      "avg_spent": 1906.8305633802815
+    },
+    {
+      "_id": 3,
+      "users": 1134,
+      "avg_spent": 3875.806119929453
+    },
+    {
+      "_id": 5,
+      "users": 2451,
+      "avg_spent": 5876.855977152183
+    },
+    {
+      "_id": 7,
+      "users": 2816,
+      "avg_spent": 7916.659719460227
+    },
+    {
+      "_id": 9,
+      "users": 2577,
+      "avg_spent": 10307.780547147846
+    },
+    {
+      "_id": 12,
+      "users": 747,
+      "avg_spent": 13510.459611780456
+    },
+    {
+      "_id": 16,
+      "users": 56,
+      "avg_spent": 17571.609285714287
+    }
+  ],
+  "by_spend": [
+    {
+      "_id": 0,
+      "users": 6,
+      "avg_orders": 0.0
+    },
+    {
+      "_id": 0.01,
+      "users": 21,
+      "avg_orders": 1.3333333333333333
+    },
+    {
+      "_id": 500,
+      "users": 39,
+      "avg_orders": 1.9230769230769231
+    },
+    {
+      "_id": 1000,
+      "users": 310,
+      "avg_orders": 3.029032258064516
+    },
+    {
+      "_id": 2500,
+      "users": 1747,
+      "avg_orders": 4.787063537492845
+    },
+    {
+      "_id": 5000,
+      "users": 5274,
+      "avg_orders": 7.283276450511946
+    },
+    {
+      "_id": 10000,
+      "users": 2603,
+      "avg_orders": 10.442950441797926
+    }
+  ],
+  "segments": [
+    {
+      "_id": "1. Never purchased",
+      "users": 6,
+      "revenue": 0.0,
+      "avg_order_value": 0.0,
+      "avg_orders": 0.0
+    },
+    {
+      "_id": "2. At risk (no order 45d+)",
+      "users": 254,
+      "revenue": 1083280.93,
+      "avg_order_value": 1096.544409448819,
+      "avg_orders": 3.952755905511811
+    },
+    {
+      "_id": "3. Occasional (1-6 orders)",
+      "users": 3565,
+      "revenue": 18305810.11,
+      "avg_order_value": 1051.6616325385694,
+      "avg_orders": 4.869565217391305
+    },
+    {
+      "_id": "4. Loyal (7-11 orders)",
+      "users": 5375,
+      "revenue": 48708695.63,
+      "avg_order_value": 1056.060961860465,
+      "avg_orders": 8.58493023255814
+    },
+    {
+      "_id": "5. Champions (12+ orders)",
+      "users": 800,
+      "revenue": 11040494.07,
+      "avg_order_value": 1052.003825,
+      "avg_orders": 13.115
+    }
+  ]
+}

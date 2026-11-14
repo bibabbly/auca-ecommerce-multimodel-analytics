@@ -1,0 +1,4 @@
+device,s1_session,s2_viewed_product,s3_added_to_cart,s4_reached_checkout,s5_purchased,view_rate,cart_rate,checkout_rate,purchase_rate,overall_conversion
+mobile,99841,98677,63441,28282,12505,98.8,64.3,44.6,44.2,12.52
+tablet,100098,98830,63584,28466,12502,98.7,64.3,44.8,43.9,12.49
+desktop,100061,98873,63492,28324,12428,98.8,64.2,44.6,43.9,12.42

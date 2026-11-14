@@ -1,0 +1,32 @@
+# MongoDB (document store) + HBase (wide-column store) for the AUCA Big Data final project.
+# Start:  docker compose up -d        Stop: docker compose down      (add -v to wipe data)
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: ecom-mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping').ok"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  hbase:
+    # Standalone HBase 2.1 (master + regionserver + embedded ZooKeeper) with Thrift and REST.
+    # Python connects through the Thrift server on port 9090 (happybase).
+    image: harisekhon/hbase:2.1
+    container_name: ecom-hbase
+    hostname: hbase
+    ports:
+      - "9090:9090"    # Thrift API (happybase)
+      - "16010:16010"  # HBase Master web UI  -> http://localhost:16010
+      - "2181:2181"    # ZooKeeper
+    volumes:
+      - hbase-data:/hbase-data
+
+volumes:
+  mongo-data:
+  hbase-data:

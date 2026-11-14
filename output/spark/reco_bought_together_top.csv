@@ -1,0 +1,3 @@
+y,x,support,x_count,y_count,confidence,lift,x_name,y_name
+prod_04409,prod_03823,3,33,39,0.0909,174.81,Persevering Disintermediate Hub,Fully-Configurable Even-Keeled Throughput
+prod_03823,prod_04409,3,39,33,0.0769,174.77,Fully-Configurable Even-Keeled Throughput,Persevering Disintermediate Hub

@@ -1,0 +1,44 @@
+# HBase schema for the e-commerce clickstream (run inside the container):
+#   docker exec -i ecom-hbase hbase shell -n < src/hbase/create_tables.hbase
+#
+# ---------------------------------------------------------------------------------------------
+# Table 1: user_sessions  - time-series browsing activity per user
+#   Row key : <user_id>|<reverse_ts>|<session_id>
+#             reverse_ts = Long.MAX_VALUE - start_time_epoch_ms, zero-padded to 19 digits.
+#             -> all sessions of a user are contiguous (prefix scan), and the NEWEST session
+#                sorts FIRST, so "last N sessions of user X" is a short scan with LIMIT N.
+#             session_id suffix keeps the key unique if two sessions start in the same ms.
+#   Families (short names: the family + qualifier is stored with EVERY cell):
+#     s  - session metadata (one cell per attribute; always read for a session listing)
+#     pv - page views: qualifier = 3-digit sequence (000, 001, ...), value = compact JSON.
+#          Wide + sparse: 4..16 cells per row; rows only store what happened.
+#     c  - cart contents: qualifier = product_id, value = "quantity|price" (sparse, often empty)
+#   Separate families let a listing read only `s` without touching the larger `pv` store files.
+#   VERSIONS => 1 : events are immutable, no history needed.  BLOOMFILTER ROW speeds point gets.
+#   Pre-split on user_id ranges so writes and scans spread across regions from the start.
+# ---------------------------------------------------------------------------------------------
+disable 'user_sessions' rescue nil
+drop 'user_sessions' rescue nil
+create 'user_sessions',
+  {NAME => 's',  VERSIONS => 1, BLOOMFILTER => 'ROW'},
+  {NAME => 'pv', VERSIONS => 1, BLOOMFILTER => 'ROW'},
+  {NAME => 'c',  VERSIONS => 1, BLOOMFILTER => 'ROW'},
+  SPLITS => ['user_002000', 'user_004000', 'user_006000', 'user_008000']
+
+# ---------------------------------------------------------------------------------------------
+# Table 2: product_metrics - daily performance counters per product
+#   Row key : <product_id>|<yyyymmdd>
+#             -> one product's history is contiguous and in date order, so a date-range report
+#                for a product is a single bounded scan (STARTROW/STOPROW), no filtering.
+#   Family m: views, cart_adds, purchases, units_sold, revenue (string-encoded numbers so they
+#             are readable in the shell; counters could use INCR with 8-byte longs instead).
+# ---------------------------------------------------------------------------------------------
+disable 'product_metrics' rescue nil
+drop 'product_metrics' rescue nil
+create 'product_metrics',
+  {NAME => 'm', VERSIONS => 1, BLOOMFILTER => 'ROW'},
+  SPLITS => ['prod_01000', 'prod_02000', 'prod_03000', 'prod_04000']
+
+list
+describe 'user_sessions'
+describe 'product_metrics'

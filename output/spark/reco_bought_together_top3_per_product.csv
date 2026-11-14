@@ -1,0 +1,3 @@
+x,y,support,x_count,y_count,confidence,lift,rank
+prod_03823,prod_04409,3,33,39,0.0909,174.81,1
+prod_04409,prod_03823,3,39,33,0.0769,174.77,1

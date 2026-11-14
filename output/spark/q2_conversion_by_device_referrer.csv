@@ -1,0 +1,16 @@
+device_type,referrer,sessions,with_cart,converted,cart_rate_pct,conversion_pct,avg_minutes
+mobile,affiliate,20089,12708,2588,63.26,12.88,30.3
+mobile,search_engine,19902,12661,2543,63.62,12.78,30.3
+tablet,email,20016,12783,2551,63.86,12.74,30.1
+desktop,email,20006,12762,2537,63.79,12.68,30.2
+tablet,social,20271,12870,2554,63.49,12.6,30.1
+tablet,search_engine,19912,12574,2492,63.15,12.52,30.3
+mobile,social,19945,12645,2498,63.4,12.52,30.4
+desktop,affiliate,20123,12780,2519,63.51,12.52,30.3
+tablet,affiliate,19997,12724,2473,63.63,12.37,30.2
+desktop,direct,20084,12825,2476,63.86,12.33,30.3
+desktop,social,19700,12452,2428,63.21,12.32,30.2
+desktop,search_engine,20148,12673,2468,62.9,12.25,30.3
+mobile,direct,19924,12646,2437,63.47,12.23,30.5
+tablet,direct,19902,12633,2432,63.48,12.22,30.5
+mobile,email,19981,12781,2439,63.97,12.21,30.3
